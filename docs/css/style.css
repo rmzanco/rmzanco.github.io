@@ -1491,7 +1491,14 @@ blockquote {
     margin:0;
 }
 
-
+.spotify {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
 
 /*------------------------------------------------------------------------------------------*/
 /* 7. Footer */
